@@ -1,0 +1,32 @@
+.parent{
+    margin: 15px 0;
+}
+.padding{
+    padding: 10px;
+    width: 100%;
+    margin: auto;
+}
+.border-div{
+    border: 1px solid #000;
+}
+.border-element{
+    border: 1px solid #000;
+}
+.text-style{
+    padding: 7px;
+    font-family: "Roboto","Helvetica","Arial","sans-serif";
+    word-break: break-word;
+}
+
+.heading{
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    background-color: #502A74;
+    color: #fff;
+}
+.na{
+    text-align: center;
+    width: 100%;
+    align-self: center;
+}
